@@ -1,0 +1,17 @@
+{
+  "uuid": "0422b343-19a5-42bd-962c-3c5b3272ce48",
+  "shortName": "hello_world",
+  "longName": "hello_world",
+  "companyName": “ASK”,
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}

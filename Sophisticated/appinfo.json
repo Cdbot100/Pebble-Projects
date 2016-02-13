@@ -1,0 +1,26 @@
+{
+  "uuid": "51b56be8-d678-4b80-9ac6-bd6bf3c72f60",
+  "shortName": "Sophisticated",
+  "longName": "Sophisticated",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "type": "png-trans",
+        "name": "IMAGE_PANDA",
+        "file": "images/panda.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_GEARS",
+        "file": "images/gears.png"
+      }
+    ]
+  }
+}

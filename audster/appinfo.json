@@ -1,0 +1,36 @@
+{
+  "uuid": "78d314fe-326b-4184-a08e-5f631f9ab7b0",
+  "shortName": "audster",
+  "longName": "audster",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "IMAGE_MENU_ICON_BIG_WATCH",
+        "file": "images/menu_icon_big_watch.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_MENU_ICON_SECTOR_WATCH",
+        "file": "images/menu_icon_sector_watch.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_MENU_ICON_BINARY_WATCH",
+        "file": "images/menu_icon_binary_watch.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_BACKGROUND_BRAINS",
+        "file": "images/brains_watch_background.png"
+      }
+    ]
+  }
+}

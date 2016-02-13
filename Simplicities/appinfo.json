@@ -1,0 +1,43 @@
+{
+  "uuid": "1b5fef50-100a-4c32-bc4a-36d3097e097e",
+  "shortName": "Simplicities",
+  "longName": "Simplicities",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 2,
+  "versionLabel": "2.1",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "city": 2,
+    "temperature": 1
+},
+  "resources": {
+    "media": [  {
+        "type": "font",
+        "name": "FONT_ROBOTO_CONDENSED_21",
+        "file": "fonts/Roboto-Condensed.ttf"
+      },
+      {
+         "type": "png",
+         "name": "BT_CONNECTED",
+         "file": "images/bluetooth_white_small.png"
+      },
+      {
+              "type": "png",
+              "name": "BT_OFF",
+              "file": "images/bluetooth_off_white_small.png"
+      },
+      {
+              "type": "png",
+              "name": "BATT_CHAR",
+              "file": "images/batt_char.png"
+      },
+      {
+              "type": "png",
+              "name": "BATT_EMPTY",
+              "file": "images/batt_empty.png"
+      }
+    ]
+  }
+}

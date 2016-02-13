@@ -1,0 +1,43 @@
+{
+  "uuid": "f5cda457-204f-4437-ad6b-18ab9f38bac6",
+  "shortName": "Scottplicity_2",
+  "longName": "Scottplicity_2",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "city": 2,
+    "temperature": 1
+},
+  "resources": {
+    "media": [  {
+        "type": "font",
+        "name": "FONT_ROBOTO_CONDENSED_21",
+        "file": "fonts/Roboto-Condensed.ttf"
+      },
+      {
+         "type": "png",
+         "name": "BT_CONNECTED",
+         "file": "images/bluetooth_white_small.png"
+      },
+      {
+              "type": "png",
+              "name": "BT_OFF",
+              "file": "images/bluetooth_off_white_small.png"
+      },
+      {
+              "type": "png",
+              "name": "BATT_CHAR",
+              "file": "images/batt_char.png"
+      },
+      {
+              "type": "png",
+              "name": "BATT_EMPTY",
+              "file": "images/batt_empty.png"
+      }
+    ]
+  }
+}

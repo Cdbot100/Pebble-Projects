@@ -1,0 +1,8 @@
+argv = ['/Users/Scott/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/waf', 'configure', 'build']
+environ = {'TERM_SESSION_ID': 'CF9B6BC1-E32E-4BA6-950D-581E6EFB85DE', 'SSH_AUTH_SOCK': '/tmp/launch-8DsecG/Listeners', 'VERSIONER_PYTHON_PREFER_32_BIT': 'no', 'TERM_PROGRAM_VERSION': '326', 'SHELL': '/bin/bash', 'LOGNAME': 'Scott', 'USER': 'Scott', 'HOME': '/Users/Scott', 'PATH': '/Users/Scott/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin:/Users/Scott/pebble-dev/PebbleSDK-2.0-BETA4/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin', 'TMPDIR': '/var/folders/85/nbwcdsr1681g5pdy9wsh839r0000gn/T/', 'TERM_PROGRAM': 'Apple_Terminal', 'LANG': 'en_US.UTF-8', 'TERM': 'xterm-256color', 'Apple_PubSub_Socket_Render': '/tmp/launch-qbJgwq/Render', 'VERSIONER_PYTHON_VERSION': '2.7', 'SHLVL': '2', 'SECURITYSESSIONID': '186a4', '__CF_USER_TEXT_ENCODING': '0x1F5:0:0', 'PWD': '/Users/Scott/audster', '_': '/Users/Scott/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/waf', '__CHECKFIX1436934': '1'}
+files = ['/Users/Scott/audster/wscript']
+hash = 4672844372416070989
+options = {'files': '', 'jobs': 4, 'verbose': 0, 'nocache': False, 'progress_bar': 0, 'timestamp': None, 'distcheck_args': None, 'top': '', 'destdir': '', 'keep': 0, 'zones': '', 'debug': False, 'prefix': '/usr/local/', 'download': False, 'force': False, 'targets': '', 'out': ''}
+out_dir = '/Users/Scott/audster/build'
+run_dir = '/Users/Scott/audster'
+top_dir = '/Users/Scott/audster'
